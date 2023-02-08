@@ -1,4 +1,5 @@
-#Output
+##Screenshots
+
 ![inshorts 1](https://user-images.githubusercontent.com/68685595/217598573-70b4d9e0-bd86-4af1-af20-c6ea836533ae.png)
 ![inshorts 2](https://user-images.githubusercontent.com/68685595/217598579-e9f49246-0e05-4bf0-8d3c-accfd075bf80.png)
 ![inshorts 3](https://user-images.githubusercontent.com/68685595/217598517-09945b93-5b44-4cdc-93f2-688a0bf8012a.png)
