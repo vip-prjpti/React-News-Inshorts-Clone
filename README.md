@@ -1,4 +1,10 @@
+https://inshorts-news-clone.netlify.app
+
+Important Note
+For some reason, News API only works on mozilla browsers in free plan other than that - News api doesn't allow you to fetch the api from a deployed site. You can fork this repo and run in your local server and add your apikey in config.js file in the root.
+
 ##Screenshots
+
 
 ![inshorts 1](https://user-images.githubusercontent.com/68685595/217598573-70b4d9e0-bd86-4af1-af20-c6ea836533ae.png)
 ![inshorts 2](https://user-images.githubusercontent.com/68685595/217598579-e9f49246-0e05-4bf0-8d3c-accfd075bf80.png)
